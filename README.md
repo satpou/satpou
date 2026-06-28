@@ -16,6 +16,7 @@ Saya adalah developer yang sedang belajar dan mengembangkan skill programming. P
 ## 🎓 Education
 
 - **S1 Teknik Informatika** - Universitas Negeri Semarang (UNNES)
+- **Desain Komunikasi Visual (DKV)** - SMKN 1 Kabupaten Tangerang
 
 ## 🛠️ Tech Stack
 
@@ -27,6 +28,12 @@ Saya adalah developer yang sedang belajar dan mengembangkan skill programming. P
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Design
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
